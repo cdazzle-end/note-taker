@@ -1,5 +1,7 @@
 # Consolidate Note Files
 
+To run > ts-node consolidatedNotes.ts
+
 This works in conjunction extensions Notes and Foam. Notes configures ide for note taking in .md files.
 Foam creates a new daily note everytime that we open a project repository on a new day
 Foam creates folder in ${rootFodler}/dailyNotes/
